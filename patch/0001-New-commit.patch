@@ -12,6 +12,8 @@ index 797a232..c87a1df 100644
 --- a/Helloworld.py
 +++ b/Helloworld.py
 @@ -1,2 +1,2 @@
+hi
+helo
 -print "H3llo World"
 -print "Fr0m srcmake"
 +print "Hello World"
