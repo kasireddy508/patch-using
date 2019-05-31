@@ -1,0 +1,25 @@
+From 28b751f646c63b7f9fa585fa2ee9e9977aa85eeb Mon Sep 17 00:00:00 2001
+From: kasi91 <kasi@experienceflow.com>
+Date: Fri, 31 May 2019 15:47:27 +0000
+Subject: [PATCH 2/2] add somelines
+
+---
+ patch/0001-New-commit.patch | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/patch/0001-New-commit.patch b/patch/0001-New-commit.patch
+index e78e30a..f2224db 100644
+--- a/patch/0001-New-commit.patch
++++ b/patch/0001-New-commit.patch
+@@ -12,6 +12,8 @@ index 797a232..c87a1df 100644
+ --- a/Helloworld.py
+ +++ b/Helloworld.py
+ @@ -1,2 +1,2 @@
++hi
++helo
+ -print "H3llo World"
+ -print "Fr0m srcmake"
+ +print "Hello World"
+-- 
+2.7.4
+
